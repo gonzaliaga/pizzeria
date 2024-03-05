@@ -1,4 +1,3 @@
-import React from 'react'
 import CardComponent from '../components/CardComponent'
 import ImageCarousel from '../components/CarouselComponent'
 

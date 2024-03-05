@@ -34,8 +34,6 @@
 // export default CarouselComponent;
 
 
-import React from 'react';
-
 import { Carousel } from 'bootstrap';
  
 const ImageCarousel = () => {
@@ -50,7 +48,7 @@ const ImageCarousel = () => {
 
           className="d-block w-100"
 
-          src="/images/image1.jpg"
+          src="/images/image1.jpeg"
 
           alt="First slide"
 
@@ -64,7 +62,7 @@ const ImageCarousel = () => {
 
           className="d-block w-100"
 
-          src="/images/image2.jpg"
+          src="/images/image2.jpeg"
 
           alt="Second slide"
 
@@ -78,7 +76,7 @@ const ImageCarousel = () => {
 
           className="d-block w-100"
 
-          src="/images/image3.jpg"
+          src="/images/image3.jpeg"
 
           alt="Third slide"
 
